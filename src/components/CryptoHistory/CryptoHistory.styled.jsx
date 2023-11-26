@@ -1,5 +1,4 @@
 import styled from '@emotion/styled';
-import { theme } from 'styles';
 
 export const BaseTable = styled.table`
   width: 100%;
